@@ -3,13 +3,21 @@
 🎨 Black & White Image Colorizer (Streamlit App)
 This project is a simple yet interactive Black & White Image Colorizer built using Streamlit, OpenCV, NumPy, and scikit-learn's KMeans Clustering. The app allows users to upload a grayscale (B/W) image and add vibrant colors to it based on selected color clusters.
 
+
+
+
  Features
+ 
 ✅ Upload any black and white image (JPG or PNG)
 
 ✅ Choose the number of color clusters (2 to 8)
+
 ✅ Select custom colors for each cluster using a color picker
+
 ✅ Automatically colorize the image based on KMeans clustering
+
 ✅ Preview the colorized image instantly
+
 ✅ Download the colorized output as a PNG file
 
 
