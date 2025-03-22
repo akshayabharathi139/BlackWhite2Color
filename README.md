@@ -21,21 +21,34 @@ This project is a simple yet interactive Black & White Image Colorizer built usi
 ✅ Download the colorized output as a PNG file
 
 
+
+
 🛠 Tech Stack
 Python
+
 Streamlit for the interactive web interface
+
 OpenCV for image processing
+
 NumPy for numerical operations
+
 scikit-learn (KMeans) for clustering grayscale pixels
+
 PIL (Pillow) for image handling and saving
 
+
+
 Install dependencies:
+
 pip install streamlit opencv-python numpy scikit-learn pillow
 
 
-Run the Streamlit app:
+Run the Streamlit app :
+
 streamlit run app.py
+
 or
+
 python -m streamlit run app.py  
 
 
