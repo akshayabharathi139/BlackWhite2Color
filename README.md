@@ -23,7 +23,11 @@ This project is a simple yet interactive Black & White Image Colorizer built usi
 
 
 
+
+
+
 🛠 Tech Stack
+
 Python
 
 Streamlit for the interactive web interface
@@ -38,9 +42,19 @@ PIL (Pillow) for image handling and saving
 
 
 
+
+
+
+
+
 Install dependencies:
 
 pip install streamlit opencv-python numpy scikit-learn pillow
+
+
+
+
+
 
 
 Run the Streamlit app :
