@@ -5,6 +5,7 @@ This project is a simple yet interactive Black & White Image Colorizer built usi
 
  Features
 ✅ Upload any black and white image (JPG or PNG)
+
 ✅ Choose the number of color clusters (2 to 8)
 ✅ Select custom colors for each cluster using a color picker
 ✅ Automatically colorize the image based on KMeans clustering
